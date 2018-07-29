@@ -10,6 +10,8 @@ while sum<100:
      print(sum)
      sum+=1
 
+#this for loop will continue asking for name until
+#user enters your name as input.
 name = ''
 while name != 'your name':
     print('Please type your name.')
