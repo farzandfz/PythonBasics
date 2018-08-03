@@ -1,5 +1,6 @@
 '''
-here I'm adding functionality to add, subtract, multiply and divide numbers
+here I'm adding functionality to add, subtract, multiply,
+divide, find exponents and remainder of numbers
 
 '''
 
